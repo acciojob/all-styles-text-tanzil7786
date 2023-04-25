@@ -1,10 +1,15 @@
 
 /* Your CSS Code here. */
-h1{
+.main{
 	width:200px;
 	background-color:purple;
-	border-left:5px solid green;
+	border:0px solid;
+	border-left-width:5px;
+	border-left-color:green;
 	padding:10px;
+	
+}
+#heading{
 	font-size:20px;
 	color:white;
 }
